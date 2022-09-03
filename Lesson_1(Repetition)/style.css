@@ -1,0 +1,44 @@
+#menu{
+    background-color: rgb(35,55,76);
+    height: 60px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+#menu a{
+    background-color: rgb(35,55,76);
+    text-decoration:none;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-self: center;
+}
+#menu a:hover{
+    background-color: rgb(191,33,80);
+    color: black;
+}
+#logo{
+    background-color: rgb(191,33,80);
+    height: 300px;
+    padding: 10px;
+    text-align: center;
+}
+#img{
+    height:300px;
+    width: 400px;
+}
+#content{
+    background-color: rgb(191,33,80);
+    height: 440px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+#basement{
+    background-color: rgb(191,33,80);
+    height: 100px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    padding: 10px;
+}
